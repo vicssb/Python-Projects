@@ -1,0 +1,27 @@
+virtualenv venv
+cd venv\Scripts
+activate.bat
+pip install django==1.6
+py
+import django
+django.get_version()
+exit()
+django-admin.py startproject (nome)
+dentro da pasta (nome) criada: 
+	py manage.py runserver
+http://localhost:8000/
+
+Em settings.py:
+	LANGUAGE_CODE = 'pt-br'
+
+py manage.py migrate
+py manage.py startapp core
+move core (nome)
+
+em settings: INSTALLED_APPS = [   ´nome.core´
+	
+	
+	
+	
+	
+	

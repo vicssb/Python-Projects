@@ -1,0 +1,14 @@
+Eu poderia rodar no meu Tablet (android) e smartphone (android) seguindo o procedimento abaixo:
+
+Instale o aplicativo "GNUroot Debian";
+Abra o aplicativo "GNUroot Debian";
+Execute estes comandos:
+
+apt-get update
+apt-get install python3
+apt-get install python3-setuptools
+easy_install3 pip
+pip install django
+django-admin startproject demo
+cd demo
+python manage.py runserver
