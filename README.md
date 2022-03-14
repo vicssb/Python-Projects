@@ -1,4 +1,4 @@
-<img src="python_logo_01.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="python_logo">
+<img src="logo.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="python_logo">
 <p align="center">
   <b> Projects developed in Python </b> 
 </p> 
