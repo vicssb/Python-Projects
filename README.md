@@ -5,23 +5,29 @@
 
 🦄 <b>Attention to:</b>
 <ul>
-    <li><b> Ativ3_UPAs </b></li>
-    <li><b> Pandas_Desmatamento</b></li>
-    <li><b> COVID19_2</b></li>
+    <li><b> Ativ3_UPAs </b><br>
+        System to find the nearest UPA
+    </li>
+    <li><b> Pandas_Desmatamento</b><br>
+            System that demonstrates through graphics the deforestation of the Amazon
+    </li>
+    <li><b> COVID19_2</b><br>
+        System that demonstrates through graphics data from the COVID19 pandemic
+    </li>
 </ul>
 
 <p align="left">
-  💌 Para maiores informações entre em contato: ⤵️
+  💌 For more information contact us: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="#" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="#" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="#" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5512987085327"/></a>
 
   </p>  
